@@ -1,0 +1,17 @@
+[2018-01-05 00.44.24]	Starting...
+[2018-01-05 00.44.24]		[Dataset]	FB15k
+[2018-01-05 00.44.24]	LinkPredictionTail
+[2018-01-05 00.44.24]		[Name]	TransE
+[2018-01-05 00.44.24]		[Dimension]	100
+[2018-01-05 00.44.24]		[Learning Rate]	0.001
+[2018-01-05 00.44.24]		[Training Threshold]	1.8
+[2018-01-05 00.44.24]		[Name]	SemanticModel.TransE
+[2018-01-05 00.44.24]		[Dimension]	100
+[2018-01-05 00.44.24]		[Learning Rate]	0.001
+[2018-01-05 00.44.24]		[Training Threshold]	1.8
+[2018-01-05 00.44.24]		[Topic Model]	LSI
+[2018-01-05 00.44.24]		[V_semantic]	 random initialize
+[2018-01-05 00.44.24]		[Balance]	0.2
+[2018-01-05 00.44.25]		[Name]	SemanticModel.Joint
+[2018-01-05 00.44.25]		[Factor]	0.1
+[2018-01-05 00.44.28]		success load neighbor documents	

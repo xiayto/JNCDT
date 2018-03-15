@@ -1,0 +1,42 @@
+"An official website is a website presenting valid and 
+direct information about a topic.  In most cases it is a domain name, 
+owned by the topic, and chosen to represent them on the internet in a 
+considerable way.\n\n\"Official\" means something that may represent identity.  
+However, a MySpace, Facebook, 
+or Twitter page should not be an official website."@en
+
+
+RenderWare is a computer and video 
+game middleware from British games developer Criterion 
+Software."@en
+
+The Mars Volta was an American rock band from El Paso, Texas, formed in 2001. 
+The band's final lineup consisted of Omar Rodríguez-López, Cedric Bixler-Zavala,
+ Juan Alderete, Marcel Rodriguez-Lopez and Deantoni Parks. The band formed 
+ following the break-up of Rodriguez-Lopez and Bixler-Zavala's previous band, 
+ At the Drive-In. They are known for their energetic live shows and their 
+ concept albums.\nIn 2009, the band won a Grammy Award in the \"Best Hard Rock 
+ Performance\" category for the song \"Wax Simulacra.\" In 2008, they were named 
+ \"Best Prog-Rock Band\" by Rolling Stone magazine.\nIn September 2012, 
+ it was announced that The Mars Volta had entered a hiatus, with Rodríguez-López 
+ and Parks forming a new project, Bosnian Rainbows. Four months later, the band 
+ announced their breakup. Bixler-Zavala and Alderete 
+subsequently formed a new band, Zavalaz."@en
+
+"Marriage is a socially or ritually recognized union or legal contract between 
+spouses that establishes rights and obligations between them, between them and 
+their children, and between them and their in-laws. The definition of marriage 
+varies according to different cultures, but it is principally an institution in 
+ which interpersonal relationships, usually intimate and sexual, are acknowledged. In some cultures, marriage is recommended or considered to be compulsory before pursuing any sexual activity. When defined broadly, marriage is considered a cultural universal.\nIndividuals may marry for several reasons, including: legal, social, libidinal, emotional, financial, spiritual, and religious. Who they marry may be influenced by socially determined rules of incest, prescriptive marriage rules, parental choice and individual desire. In developing areas of the world arranged marriage, child marriage, polygamy, and sometimes forced marriage, may be practiced as a cultural tradition. Conversely, such practices may be outlawed and penalized in many parts of the world out of concerns for human rights and because of international law. In developed parts of the world, there has been a general trend towards ensuring equal rights within marriage for women and legally recognizing the marriages of interracial, interfaith, and same-gender couples. Oftentimes, these trends 
+have been motivated by a desire to establish equality and uphold human rights."@en
+
+
+"A domestic partnership is a legal or interpersonal relationship between two 
+individuals who live together and share a common domestic life but are neither 
+joined by marriage nor a civil union. In some jurisdictions, such as Australia, 
+New Zealand, the American states of Oregon, Washington, Nevada, and California,
+ a domestic partnership is almost equivalent to marriage, or to other legally 
+ recognized unions, while in other jurisdictions such as the American states of 
+ Wisconsin and Maine, domestic partnerships may confer lesser relationship rights than other jurisdictions' civil unions and more than de facto cohabitation. The terminology for such unions is still evolving, and the exact level of rights and responsibilities conferred by a domestic partnership varies widely from place to place.\nSome legislatures have voluntarily established domestic partnership relations by statute instead of being ordered to do so by a court. Although some jurisdictions have instituted domestic partnerships as a way to recognize same-sex unions, domestic partnerships may involve either different-sex or same-sex couples.\nIn some legal jurisdictions, domestic partners who live together for an extended period of time but are not legally entitled to common-law marriage may be entitled to legal protection in the form of a domestic partnership. Some domestic partners may enter into domestic partnership agreements in order to agree contractually to issues involving property ownership, support obligations, and similar issues common to marriage. Beyond agreements, registration of relationships in domestic partnership registries allow for the jurisdiction to formally acknowledge such agreements as valid relationships with limited rights, although
+ agreements and registries have often been legalized in separate legislation."@en
+

@@ -1,0 +1,35 @@
+[2018-01-08 22.06.16]	Starting...
+[2018-01-08 22.06.16]		[Dataset]	FB15k
+[2018-01-08 22.06.16]	LinkPredictionTail
+[2018-01-08 22.06.16]		[Name]	TransE
+[2018-01-08 22.06.16]		[Dimension]	100
+[2018-01-08 22.06.16]		[Learning Rate]	0.001
+[2018-01-08 22.06.16]		[Training Threshold]	1.8
+[2018-01-08 22.06.17]		[Name]	SemanticModel.TransE
+[2018-01-08 22.06.17]		[Dimension]	100
+[2018-01-08 22.06.17]		[Learning Rate]	0.001
+[2018-01-08 22.06.17]		[Training Threshold]	1.8
+[2018-01-08 22.06.17]		[Topic Model]	LSI
+[2018-01-08 22.06.17]		[V_semantic]	 random initialize
+[2018-01-08 22.06.17]		[Balance]	0.2
+[2018-01-08 22.06.18]		[Name]	SemanticModel.Joint
+[2018-01-08 22.06.18]		[Factor]	0.1
+[2018-01-08 22.06.22]		success load neighbor documents	
+[2018-01-08 22.06.34]		[Epos]	10000
+[2018-01-09 23.49.27]	
+[2018-01-10 00.38.23]	
+[2018-01-10 00.38.23]	Raw.BestMEANS = 206.545
+[2018-01-10 00.38.23]	Raw.BestMRR = 0.241584
+[2018-01-10 00.38.23]	Raw.BestHITS = 0.489542
+[2018-01-10 00.38.23]	Filter.BestMEANS = 87.8856
+[2018-01-10 00.38.23]	Filter.BestMRR= 0.514285
+[2018-01-10 00.38.23]	Filter.BestHITS = 0.73619
+[2018-01-10 01.27.44]	
+[2018-01-10 01.27.44]	Raw.BestMEANS = 128.996
+[2018-01-10 01.27.44]	Raw.BestMRR = 0.301894
+[2018-01-10 01.27.44]	Raw.BestHITS = 0.569573
+[2018-01-10 01.27.44]	Filter.BestMEANS = 57.5035
+[2018-01-10 01.27.44]	Filter.BestMRR= 0.572914
+[2018-01-10 01.27.44]	Filter.BestHITS = 0.801931
+[2018-01-10 01.27.52]	10000	 Accuracy = 0.982631, Best = 0.982631
+[2018-01-10 01.27.52]	
